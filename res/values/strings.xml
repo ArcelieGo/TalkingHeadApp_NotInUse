@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TalkingHeadApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">W E L C O M E</string>
+    <color name="purple">#800080</color>
+    <string name="start">Start</string>
+    <string name="instruction">Instruction</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+  
+
+</resources>
